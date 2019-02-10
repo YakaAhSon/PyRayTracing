@@ -9,6 +9,6 @@ d: max depth of reflection
 
 i: number of reflected beams for deffused reflection
 
-## Deprndencies
+## Dependencies
 * pillow
 * numpy
